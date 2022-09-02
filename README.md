@@ -16,8 +16,6 @@
 
 email: unknown65182@gmail.com
 
-phone: 89969639664
-
 telegram: [n0kken65](https://telegram.me/n0kken65)
 
 github: [nokken65](http://github.com/nokken65)
