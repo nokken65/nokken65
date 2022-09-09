@@ -16,7 +16,7 @@
 
 email: unknown65182@gmail.com
 
-telegram: [n0kken65](https://telegram.me/n0kken65)
+telegram: [nokken65](https://telegram.me/nokken65)
 
 github: [nokken65](http://github.com/nokken65)
 
