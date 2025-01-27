@@ -5,4 +5,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokken65&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=nokken65?top_languages=true)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=unknown65182&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
